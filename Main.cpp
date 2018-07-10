@@ -1,9 +1,5 @@
 #include <SFML/Graphics.hpp>
-#include <ccomplex>
-#include "SFML\Audio.hpp"
 #include <iostream>
-#include <valarray>
-#include <cmath>
 #include "Spectrum_visualize.h"
 
 using namespace std;
