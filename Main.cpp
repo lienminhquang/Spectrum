@@ -11,10 +11,12 @@ using namespace std;
 
 int main()
 {
-
-	std::cout << "File name (.wav): ";
+	std::cout << "Type file name and press p to play audio \n";
+	std::cout << "File name is name of audio file stored in Resoureces \n";
+	std::cout << "File name (ass.wav): ";
 	string fileName;
 	std::cin >> fileName;
+	std::cout << "\nLoading...";
 
 	Spectrum_visualize sp("Resources/" + fileName);
 
