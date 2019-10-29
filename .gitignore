@@ -1,0 +1,10 @@
+*.ipdb
+*.iobj
+*.tlog
+/Debug
+.vs
+*.db
+*.pdb
+*.obj
+*/Debug
+/packages

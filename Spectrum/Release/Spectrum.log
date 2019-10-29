@@ -1,0 +1,53 @@
+﻿  Spectrum_visualize.cpp
+E:\GameDev\Projects\Spectrum\Spectrum\Spectrum_visualize.cpp(64,13): warning C4244: 'initializing': conversion from 'float' to 'int', possible loss of data
+E:\GameDev\Projects\Spectrum\Spectrum\Spectrum_visualize.cpp(102,12): warning C4244: 'initializing': conversion from '_Ty' to 'float', possible loss of data
+E:\GameDev\Projects\Spectrum\Spectrum\Spectrum_visualize.cpp(102,12): warning C4244:         with
+E:\GameDev\Projects\Spectrum\Spectrum\Spectrum_visualize.cpp(102,12): warning C4244:         [
+E:\GameDev\Projects\Spectrum\Spectrum\Spectrum_visualize.cpp(102,12): warning C4244:             _Ty=double
+E:\GameDev\Projects\Spectrum\Spectrum\Spectrum_visualize.cpp(102,12): warning C4244:         ]
+E:\GameDev\Projects\Spectrum\Spectrum\Spectrum_visualize.cpp(104,41): warning C4244: 'argument': conversion from 'int' to 'T', possible loss of data
+E:\GameDev\Projects\Spectrum\Spectrum\Spectrum_visualize.cpp(104,41): warning C4244:         with
+E:\GameDev\Projects\Spectrum\Spectrum\Spectrum_visualize.cpp(104,41): warning C4244:         [
+E:\GameDev\Projects\Spectrum\Spectrum\Spectrum_visualize.cpp(104,41): warning C4244:             T=float
+E:\GameDev\Projects\Spectrum\Spectrum\Spectrum_visualize.cpp(104,41): warning C4244:         ]
+E:\GameDev\Projects\Spectrum\Spectrum\Spectrum_visualize.cpp(105,41): warning C4244: 'argument': conversion from 'int' to 'T', possible loss of data
+E:\GameDev\Projects\Spectrum\Spectrum\Spectrum_visualize.cpp(105,41): warning C4244:         with
+E:\GameDev\Projects\Spectrum\Spectrum\Spectrum_visualize.cpp(105,41): warning C4244:         [
+E:\GameDev\Projects\Spectrum\Spectrum\Spectrum_visualize.cpp(105,41): warning C4244:             T=float
+E:\GameDev\Projects\Spectrum\Spectrum\Spectrum_visualize.cpp(105,41): warning C4244:         ]
+E:\GameDev\Projects\Spectrum\Spectrum\Spectrum_visualize.cpp(106,49): warning C4244: 'argument': conversion from 'int' to 'T', possible loss of data
+E:\GameDev\Projects\Spectrum\Spectrum\Spectrum_visualize.cpp(106,49): warning C4244:         with
+E:\GameDev\Projects\Spectrum\Spectrum\Spectrum_visualize.cpp(106,49): warning C4244:         [
+E:\GameDev\Projects\Spectrum\Spectrum\Spectrum_visualize.cpp(106,49): warning C4244:             T=float
+E:\GameDev\Projects\Spectrum\Spectrum\Spectrum_visualize.cpp(106,49): warning C4244:         ]
+E:\GameDev\Projects\Spectrum\Spectrum\Spectrum_visualize.cpp(107,49): warning C4244: 'argument': conversion from 'int' to 'T', possible loss of data
+E:\GameDev\Projects\Spectrum\Spectrum\Spectrum_visualize.cpp(107,49): warning C4244:         with
+E:\GameDev\Projects\Spectrum\Spectrum\Spectrum_visualize.cpp(107,49): warning C4244:         [
+E:\GameDev\Projects\Spectrum\Spectrum\Spectrum_visualize.cpp(107,49): warning C4244:             T=float
+E:\GameDev\Projects\Spectrum\Spectrum\Spectrum_visualize.cpp(107,49): warning C4244:         ]
+E:\GameDev\Projects\Spectrum\Spectrum\Spectrum_visualize.cpp(109,41): warning C4244: 'argument': conversion from 'int' to 'T', possible loss of data
+E:\GameDev\Projects\Spectrum\Spectrum\Spectrum_visualize.cpp(109,41): warning C4244:         with
+E:\GameDev\Projects\Spectrum\Spectrum\Spectrum_visualize.cpp(109,41): warning C4244:         [
+E:\GameDev\Projects\Spectrum\Spectrum\Spectrum_visualize.cpp(109,41): warning C4244:             T=float
+E:\GameDev\Projects\Spectrum\Spectrum\Spectrum_visualize.cpp(109,41): warning C4244:         ]
+E:\GameDev\Projects\Spectrum\Spectrum\Spectrum_visualize.cpp(110,49): warning C4244: 'argument': conversion from 'int' to 'T', possible loss of data
+E:\GameDev\Projects\Spectrum\Spectrum\Spectrum_visualize.cpp(110,49): warning C4244:         with
+E:\GameDev\Projects\Spectrum\Spectrum\Spectrum_visualize.cpp(110,49): warning C4244:         [
+E:\GameDev\Projects\Spectrum\Spectrum\Spectrum_visualize.cpp(110,49): warning C4244:             T=float
+E:\GameDev\Projects\Spectrum\Spectrum\Spectrum_visualize.cpp(110,49): warning C4244:         ]
+E:\GameDev\Projects\Spectrum\Spectrum\Spectrum_visualize.cpp(111,49): warning C4244: 'argument': conversion from 'int' to 'T', possible loss of data
+E:\GameDev\Projects\Spectrum\Spectrum\Spectrum_visualize.cpp(111,49): warning C4244:         with
+E:\GameDev\Projects\Spectrum\Spectrum\Spectrum_visualize.cpp(111,49): warning C4244:         [
+E:\GameDev\Projects\Spectrum\Spectrum\Spectrum_visualize.cpp(111,49): warning C4244:             T=float
+E:\GameDev\Projects\Spectrum\Spectrum\Spectrum_visualize.cpp(111,49): warning C4244:         ]
+E:\GameDev\Projects\Spectrum\Spectrum\Spectrum_visualize.cpp(112,41): warning C4244: 'argument': conversion from 'int' to 'T', possible loss of data
+E:\GameDev\Projects\Spectrum\Spectrum\Spectrum_visualize.cpp(112,41): warning C4244:         with
+E:\GameDev\Projects\Spectrum\Spectrum\Spectrum_visualize.cpp(112,41): warning C4244:         [
+E:\GameDev\Projects\Spectrum\Spectrum\Spectrum_visualize.cpp(112,41): warning C4244:             T=float
+E:\GameDev\Projects\Spectrum\Spectrum\Spectrum_visualize.cpp(112,41): warning C4244:         ]
+  Generating code
+  4 of 173 functions ( 2.3%) were compiled, the rest were copied from previous compilation.
+    0 functions were new in current compilation
+    0 functions had inline decision re-evaluated but remain unchanged
+  Finished generating code
+  Spectrum.vcxproj -> E:\GameDev\Projects\Spectrum\Release\Spectrum.exe
